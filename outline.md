@@ -1,3 +1,11 @@
+---
+layout: default
+title: Outline
+nav_order: 2
+description: "Outline of topics"
+permalink: /outline
+---
+
 # Table of Contents
 
 ## Legacy Code Projects
