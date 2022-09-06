@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Legacy Code Projects/Outline"
+nav_order: 1
+description: "Legacy Code Projects: Outline of topics"
+---
+
 This is [1-legacy-code-projects/0-outline.md](0-outline.md)
 
 
